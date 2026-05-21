@@ -3,6 +3,8 @@
 **Tema 18: Demanda de Taxis / Movilidad Urbana**
 **Dataset:** NYC Yellow Taxi — `seaborn.load_dataset('taxis')`
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Leiton1214/NYC-Taxi-Demand-Analysis/blob/main/Entregable1_DemandaTaxis.ipynb)
+
 ---
 
 ## 📋 Descripción del Proyecto
